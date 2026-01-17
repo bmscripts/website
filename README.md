@@ -4,4 +4,4 @@
   <img alt="Shows the BM Scripts banner" src="https://i.ibb.co/qLqknnYd/BMScripts-Header.png">
 </picture>
 
-# Link to Website: [HERE](https://bmscripts.github.io/bmscripts-website/)
+# Link to Website: [HERE](https://bmscripts.github.io/website/)
